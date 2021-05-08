@@ -3,9 +3,9 @@
 
 ## 一、功能如下:
 1.支持在线签名操作  
-2.支持修改IPA包的名字  
-3.支持修PA包的bundle identifier  
-4.支持去锁IPA包多余动态库即时间锁  
+2.支持修改ipa包的名字  
+3.支持修ipa包的bundle identifier  
+4.支持去锁ipa包多余动态库即时间锁  
 5.支持ipa免费分发下载  
 6.支持windows和mac平台环境    
 
